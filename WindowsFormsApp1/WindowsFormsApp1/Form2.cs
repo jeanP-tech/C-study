@@ -63,5 +63,10 @@ namespace WindowsFormsApp1
             FileSave(name, sex, grade);
             this.Close();
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
